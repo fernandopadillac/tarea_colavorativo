@@ -1,2 +1,6 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 Fernando_Padilla
+carlos_gonzalez
+el repositorio remoto actualizado se puede encontrar en las urls
+https://github.com/fernandopadillac/tarea_colavorativo
+https://github.com/CarloSinuhe1/tarea_colavorativo
